@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775482584791",
+    "project_id": "criptol",
+    "storage_bucket": "criptol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775482584791:android:a44530be9f7c7d31498a92",
+        "android_client_info": {
+          "package_name": "com.example.app_cripto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775482584791-q11ftbpg7ff9ssq7s7l0ed4ahidq4a18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZU7IoFEHmXQtsBoSnePDCkknbMphd7XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775482584791-q11ftbpg7ff9ssq7s7l0ed4ahidq4a18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
